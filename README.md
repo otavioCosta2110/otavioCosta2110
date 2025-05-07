@@ -1,8 +1,10 @@
 ## hello 👋
 
-email: [otaviocosta23212@gmail.com](otaviocosta23212@gmail.com)
+### me devops
+
+**email**: [otaviocosta23212@gmail.com](otaviocosta23212@gmail.com)
 <br/>
-linkedin: [otaviocosta2110](https://www.linkedin.com/in/otaviocosta2110/)
+**linkedin**: [otaviocosta2110](https://www.linkedin.com/in/otaviocosta2110/)
  ```
   ________
 < zzzzzz >
@@ -13,5 +15,3 @@ linkedin: [otaviocosta2110](https://www.linkedin.com/in/otaviocosta2110/)
                 ||----w |
                 ||     ||
 ```
-
-the cow is sleeping, please do not wake it up.
