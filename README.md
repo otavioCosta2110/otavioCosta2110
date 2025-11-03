@@ -2,13 +2,13 @@
 
 ### me devops
 
-**email**: [otaviocosta23212@gmail.com](otaviocosta23212@gmail.com)
+**email**: [otaviodacosta@proton.me](otaviodacosta@proton.me)
 <br/>
 **linkedin**: [otaviocosta2110](https://www.linkedin.com/in/otaviocosta2110/)
 
-**cv pt**: [PT_DevOps_Otavio_Costa.pdf](https://github.com/user-attachments/files/20088083/PT_DevOps_Otavio_Costa.pdf) 
+🇧🇷 **CV Português**: [PT_DevOps_Otavio_Costa.pdf](https://otaviocosta2110.github.io/cv/PT_DevOps_Otavio_Costa.pdf) 
 <br/>
-**cv en**: [EN_DevOps_Otavio_Costa.pdf](https://github.com/user-attachments/files/20088080/EN_DevOps_Otavio_Costa.pdf)
+🇺🇸 **CV English**: [EN_DevOps_Otavio_Costa.pdf](https://otaviocosta2110.github.io/cv/EN_DevOps_Otavio_Costa.pdf)
 
  ```
                                                ██████████████████████████████████████                                                             
